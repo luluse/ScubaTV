@@ -1,15 +1,19 @@
-# Code Fellows - Code 301 Final Project - Team Bulbasaur
-
 # Scuba TV
+## We take a deep dive into the shows you want!
 
-**Authors:**
+![GitHub](https://img.shields.io/github/license/alex-whan/team-bulbasaur-301-final-project)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/alex-whan/team-bulbasaur-301-final-project)
+[![Build Status](https://travis-ci.com/alex-whan/team-bulbasaur-301-final-project.svg?branch=development)](https://travis-ci.com/alex-whan/team-bulbasaur-301-final-project)
 
+
+## Authors:
+### Code Fellows - Code 301 Final Project - Team Bulbasaur
 * Lulu Sevignon
 * Josh Williams
 * Kamit Satkeev
 * Alex Whan
 
-**Version:** 1.2.0
+**Version:** 1.3.0
 
 * View the deployed site for **Scuba TV** here: https://scuba-tv.herokuapp.com/
 
@@ -19,12 +23,15 @@ There are an overwhelming number of series available on multiple streaming platf
 
 ## Architecture
 
+The back end of this application is built on an Express server, and uses Superagent for making API calls to the Trakt.tv, RapidAPI/uTelly, and The Movie Database (TMDb) APIs. Postgres stores data in a database, and uses SQL to query stored information from the database to populate the user Collection and Comments to avoid excess API calls. The front end of the application is created using tje EJS (Embedded JavaScript) templating library for views and partials. Travis.CI is used implement Continuous Integration and testing before deployment.
+
 ### Technologies
 - Javascript
 - Node.js
 - SQL
 - PostgreSQL
-- 
+- EJS
+- APIs: Utelly, TMDb, Trakt.TV
 
 ### Domain Modelling
 
