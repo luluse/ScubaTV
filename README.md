@@ -17,11 +17,14 @@
 
 There are an overwhelming number of series available on multiple streaming platforms, making choosing what to watch difficult. This application makes it easier to decide on what series/show a user is going to watch, as it gives them valuable information up front that makes the decision as to what to watch simpler. This way users can identify ahead of time which series is right for them based off of the time required to finish the series (overall time, number of seasons, etc).
 
-## Getting Started
-
-A list of all dependencies required to run this program:
-
 ## Architecture
+
+### Technologies
+- Javascript
+- Node.js
+- SQL
+- PostgreSQL
+- 
 
 ### Domain Modelling
 
@@ -47,9 +50,6 @@ A list of all dependencies required to run this program:
 ![Wireframe 6](./public/assets/images/wireframe-6.jpg)
 ![Wireframe 7](./public/assets/images/wireframe-7.jpg)
 
-## Credits and Collaborations
-
-Coming soon!
 
 ## Links and Important Resources
 
