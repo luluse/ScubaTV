@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://scuba-tv.herokuapp.com/">
-    <img alt="scubatv" src="./public/assets/images/logo-white.png" width="60" />
+    <img alt="scubatv" src="./public/assets/images/logo.png" width="60" />
   </a>
 </p>
 
 # Scuba TV
 
-## We take a deep dive into the shows you want!
+### We take a deep dive into the shows you want!
 
 ![GitHub](https://img.shields.io/github/license/alex-whan/team-bulbasaur-301-final-project)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/alex-whan/team-bulbasaur-301-final-project)
 [![Build Status](https://travis-ci.com/alex-whan/team-bulbasaur-301-final-project.svg?branch=development)](https://travis-ci.com/alex-whan/team-bulbasaur-301-final-project)
 
-### View the deployed site for **Scuba TV** here: https://scuba-tv.herokuapp.com/
+#### View the deployed site for **Scuba TV** here: https://scuba-tv.herokuapp.com/
 
 
 ## Authors:
