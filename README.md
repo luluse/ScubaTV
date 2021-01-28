@@ -57,8 +57,13 @@ The back end of this application is built on an Express server, and uses Superag
 ![Wireframe 6](./public/assets/images/wireframe-6.jpg)
 ![Wireframe 7](./public/assets/images/wireframe-7.jpg)
 
-<img alt="wireframe" src="./public/assets/images/wireframe-1.jpg" width="350" />
-
+<img alt="wireframe" src="./public/assets/images/wireframe-1.jpg" width="400" />
+<img alt="wireframe" src="./public/assets/images/wireframe-2.jpg" width="400" />
+<img alt="wireframe" src="./public/assets/images/wireframe-3.jpg" width="400" />
+<img alt="wireframe" src="./public/assets/images/wireframe-4.jpg" width="400" />
+<img alt="wireframe" src="./public/assets/images/wireframe-5.jpg" width="400" />
+<img alt="wireframe" src="./public/assets/images/wireframe-6.jpg" width="400" />
+<img alt="wireframe" src="./public/assets/images/wireframe-7.jpg" width="400" />
 
 ## Links and Important Resources
 
